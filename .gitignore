@@ -1,0 +1,3 @@
+# Ignoriere alle Python-Cache-Ordner
+__pycache__/
+*.pyc
